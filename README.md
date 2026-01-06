@@ -20,4 +20,4 @@
 
 [twitter]: https://twitter.com/Ty
 [instagram]: https://www.instagram.com/Ty
-[linkedin]: https://linkedin.com/in/Tyrionna Wilson
+https://www.linkedin.com/in/tyrionna-wilson-7abb65b6/
