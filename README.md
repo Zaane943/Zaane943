@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Ty, an <a href="https://linkedin.com/in/Tyrionna Wilson">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tyrionna (Ty), an entry-level IT professional driven by curiosity, resilience, and a commitment to continous improvement. I'm pivoting into IT through hands on labs, networking, virtual machines, troubleshooting, and system fundamentals.  After developing 10+ years of transferable skills in customer service and administrative roles, I would like to merge those skills with my new found set of skills in IT. This GitHub documents my growth, technical skill development, and commitment to becoming a reliable and impactful IT professional. 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
